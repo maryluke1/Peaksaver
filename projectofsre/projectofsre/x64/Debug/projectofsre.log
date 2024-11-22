@@ -1,0 +1,7 @@
+﻿  PSfrmLogin.cpp
+C:\Users\Lenovo\Desktop\projectofsre\PSfrmLogin.h(575,21): warning C4101: 'ex': unreferenced local variable
+  (compiling source file 'PSfrmLogin.cpp')
+  
+C:\Users\Lenovo\Desktop\projectofsre\PSfrmLogin.cpp(5,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  PSfrmLogin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  projectofsre.vcxproj -> C:\Users\Lenovo\Desktop\projectofsre\x64\Debug\projectofsre.exe

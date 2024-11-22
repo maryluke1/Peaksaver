@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\projectofsre\projectofsre\x64\Debug\projectofsre.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\projectofsre\projectofsre\x64\Debug\projectofsre.PSfrmLogin.resources
+C:\Users\Lenovo\source\repos\projectofsre\projectofsre\x64\Debug\projectofsre.vcxproj.GenerateResource.cache
+D:\projectofsre\projectofsre\x64\Debug\projectofsre.vcxproj.AssemblyReference.cache
+D:\projectofsre\projectofsre\x64\Debug\projectofsre.PSfrmLogin.resources
+D:\projectofsre\projectofsre\x64\Debug\projectofsre.vcxproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\projectofsre\projectofsre\x64\Debug\projectofsre.vcxproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\projectofsre\projectofsre\x64\Debug\projectofsre.PSfrmLogin.resources
+C:\Users\Lenovo\Desktop\projectofsre\projectofsre\x64\Debug\projectofsre.vcxproj.GenerateResource.cache

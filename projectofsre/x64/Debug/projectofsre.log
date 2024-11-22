@@ -1,0 +1,4 @@
+﻿  PSfrmLogin.cpp
+E:\projectofsre\PSfrmLogin.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  PSfrmLogin.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  projectofsre.vcxproj -> E:\projectofsre\x64\Debug\projectofsre.exe

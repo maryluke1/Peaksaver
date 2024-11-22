@@ -1,0 +1,4 @@
+E:\projectofsre\x64\Debug\projectofsre.vcxproj.AssemblyReference.cache
+E:\projectofsre\x64\Debug\projectofsre.PSfrmLogin.resources
+E:\projectofsre\x64\Debug\projectofsre.vcxproj.GenerateResource.cache
+E:\projectofsre\x64\Debug\projectofsre.exe
