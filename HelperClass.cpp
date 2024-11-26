@@ -1,8 +1,9 @@
 #include "HelperClass.h"
+
 // Constructor
 HelperClass::HelperClass()
 {
-    conString = "Data Source = DESKTOP-80K9IE5\\SQLEXPRESS;Initial Catalog=PeakSaver;Integrated Security=True";
+    conString = "Data Source=LAPTOP-KI49TH6A\\SQLEXPRESS;Initial Catalog=PeakSaver;User ID=sa;Password=Ejaz123456;Encrypt=False";
 }
 
 // Getter
