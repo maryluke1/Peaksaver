@@ -2,42 +2,17 @@
 PeakSaver is a desktop application created using WinForms to provide a comprehensive tool for monitoring and managing energy consumption efficiently according to the peak and off-peak hours (specific to districts).
 
 # Introduction
-1.1 Purpose
 The Energy Consumption Planner aims to:
 
 Provide tools to monitor and reduce energy costs.
 Generate personalized planners for organizing electricity usage.
+
 Key Objectives and Business Goals:
 
-Schedule Generation: Create tailored energy consumption schedules.
-Bill Estimation: Deliver accurate energy bill predictions.
-User-Friendly Interface: Design a simple, accessible UI.
-Data Security: Ensure strong privacy measures.
-
-1.2 Documentation Convention
-Priority Levels:
-HP: Critical for core functionality.
-MP: Enhances user experience.
-LP: Future enhancements.
-Text Formatting:
-Bold: Highlights key points.
-Italic: Provides context/examples.
-Requirement ID Format:
-Functional: F-1.1
-Non-functional: NF-1.2
-
-1.3 Intended Audience
-The primary audience includes:
-
-Developers: Implement functionalities.
-Project Managers: Oversee project execution.
-Testers: Validate functionality and performance.
-Documentation Writers: Create manuals.
-
-1.4 Scope
-Business Goals: Automate monitoring, enhance satisfaction.
-Project Goals: Intuitive interface, personalized insights.
-Deliverables: User onboarding instructions, feature documentation, continuous validation.
+1. Schedule Generation: Create tailored energy consumption schedules.
+2. Bill Estimation: Deliver accurate energy bill predictions.
+3. User-Friendly Interface: Design a simple, accessible UI.
+4. Data Security: Ensure strong privacy measures.
 
 # Features
 Login/Signup with secure credentials.
